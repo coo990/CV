@@ -1,6 +1,5 @@
 ## Chuka Okoye-Ahaneku
-
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+My background includes working in sales for start-up technology companies for the last four years, I have always wanted to have a career change to become a software developer so I decided to undergo a coding bootcamp called Makers Academy, based in London.
 
 ## Projects
 
@@ -11,15 +10,29 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+Singular (January 2019 to April 2021)  
+Sales Development Representative
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Proficient in Salesforce, email and LinkedIn to generate leads and outreach. Created an interactive Excel table to assist in tracking my distrubution of meetings created with Account Managers.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+- I was responsible for driving new business opportunities and pipeline across the EMEA region by both prospecting to relevant organisations and running meetings for qualification.
 
-- Any experience relevent to software development
+- I interacted with companies in aligning our marketing solution with their relevant needs and solving their problems.
+
+- Worked with other departments within the organisation with either distribution of product news or organisation of corporate events (pre-COVID).
+
+- Won 'Top SDR Q3 2019' with creating over $750,000 in sales pipeline.
+
+Eccella (February 2017 to August 2018)  
+Inside Sales Representative
+
+- Was in integral part of the global sales practice whilst based in the UK.
+Maintained logs of works on Salesforce and Excel, making sure prospect data was up-to-date, keeping note of meetings with stakeholders and was assigned duty of follow up with warmer leads.
+
+ - Took interest into learning more about data as a whole and the workings of Tableau. Took lessons on how to use at NGDATA from other analysts, somewhat knowledgable but more eager to do professionally.
+
+ - Collaborated with field sales, marketing, professional services, and operations to discover and expand digital transformation opportunities at new prospects in manufacturing, financial services and housing.
+
 
 ## Skills
 
@@ -62,11 +75,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Chichester (2012 to 2015)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- History
+- Grade: 2:2
+- Participated in both the university football team and athletics team.
 
 #### Any other qualifications
 
