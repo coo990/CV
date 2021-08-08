@@ -1,21 +1,21 @@
 ## Chuka Okoye-Ahaneku
-My background includes working in sales for start-up technology companies for the last four years, I have always wanted to have a career change to become a software developer so I decided to undergo a coding bootcamp called Makers Academy, based in London.
+My background includes working in sales for start-up technology companies for the last four years, and I have always wanted to have a career change to become a software developer so I decided to undergo a coding bootcamp called Makers Academy, based in London. 
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Acebook | A webapp to be a replicate Facebook | Ruby on Rails              |
 
 ## Work Experience
 
 Singular (January 2019 to April 2021)  
 Sales Development Representative
 
-- Proficient in Salesforce, email and LinkedIn to generate leads and outreach. Created an interactive Excel table to assist in tracking my distrubution of meetings created with Account Managers.
-
 - I was responsible for driving new business opportunities and pipeline across the EMEA region by both prospecting to relevant organisations and running meetings for qualification.
+
+- Proficient in Salesforce, email and LinkedIn to generate leads and outreach. Created an interactive Excel table to assist in tracking my distrubution of meetings created with Account Managers.
 
 - I interacted with companies in aligning our marketing solution with their relevant needs and solving their problems.
 
@@ -23,7 +23,7 @@ Sales Development Representative
 
 - Won 'Top SDR Q3 2019' with creating over $750,000 in sales pipeline.
 
-Eccella (February 2017 to August 2018)  
+Eccella (start-date to end-date)  
 Inside Sales Representative
 
 - Was in integral part of the global sales practice whilst based in the UK.
@@ -33,7 +33,10 @@ Maintained logs of works on Salesforce and Excel, making sure prospect data was 
 
  - Collaborated with field sales, marketing, professional services, and operations to discover and expand digital transformation opportunities at new prospects in manufacturing, financial services and housing.
 
+ - Achieved highest number of prospects captured in-person at conferences and contributed the efforts of the sales team with strategic follow ups and meetings (Averaged 70+ per event).
 
+ - Participated in cold-calling, email outreach and website interactions with prospects to gather interest for our solutions.
+ 
 ## Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
@@ -77,9 +80,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### University of Chichester (2012 to 2015)
 
-- History
-- Grade: 2:2
-- Participated in both the university football team and athletics team.
+- History (2:2)
+- Participated in both the univeristy football team and athletics team.
 
 #### Any other qualifications
 
