@@ -1,92 +1,66 @@
 ## Chuka Okoye-Ahaneku
-My background includes working in sales for start-up technology companies for the last four years, and I have always wanted to have a career change to become a software developer so I decided to undergo a coding bootcamp called Makers Academy, based in London. 
+I am a dedicated, enthusiatic and career driven individual, who is always eager to learn and take on new challenges. 
 
-## Projects
+After previously working in sales for start-up companies for the past four years and having a passion for technology, I undertook a career change to become a software developer by completing an intensive 12 weeks of [Makers Academy](https://github.com/makersacademy).
 
+Blog: https://chukaokoye93.medium.com/
+
+### Projects
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| Acebook | A webapp to be a replicate Facebook | Ruby on Rails              |
+| [Pin My Hike][1]          | A webapp that allows you to pin your favourite hikes | MERN, Javascript, ESLint |
+| [Acebook][2] | A webapp that replicates Facebook | Ruby on Rails, Capybara, Javascript, HTML, CSS |
+| [MakersBnB][3] | An Airbnb clone | Ruby, Capybara, HTML, CSS |
 
-## Work Experience
+### Skills
+- **Enthusiasm** - I am always eager to contribute to a project, unafraid to add my ideas to a conversation, like enquiring about which coding tasks are more important. 
+- **Teamwork** - I enjoy working in both team environments whilst confident enough to work independently. Always getting positive feedback during pair programming sessions and team projects.
+- **Written and Verbal Communication Skills** - Held multiple presentations on business development plans at my previous jobs, and writing a [blog][4] that details my entire 12-week Makers Academy duration.
+- **Attention to detail** - I am really good at spotting key items when doing code reviews or pair programming, which has improved dramatically when debugging.
+- **Flexibility** - Easiliy adatable to taking on duties that are avaialble, and very comfortable working with new people effectively.
 
-Singular (January 2019 to April 2021)  
+### Work Experience
+
+**Singular** (January 2019 to April 2021)  
 Sales Development Representative
 
 - I was responsible for driving new business opportunities and pipeline across the EMEA region by both prospecting to relevant organisations and running meetings for qualification.
 
 - Proficient in Salesforce, email and LinkedIn to generate leads and outreach. Created an interactive Excel table to assist in tracking my distrubution of meetings created with Account Managers.
 
-- I interacted with companies in aligning our marketing solution with their relevant needs and solving their problems.
-
-- Worked with other departments within the organisation with either distribution of product news or organisation of corporate events (pre-COVID).
-
 - Won 'Top SDR Q3 2019' with creating over $750,000 in sales pipeline.
 
-Eccella (start-date to end-date)  
+**Eccella** (Feburary 2017 to July 2018)  
 Inside Sales Representative
 
 - Was in integral part of the global sales practice whilst based in the UK.
 Maintained logs of works on Salesforce and Excel, making sure prospect data was up-to-date, keeping note of meetings with stakeholders and was assigned duty of follow up with warmer leads.
-
- - Took interest into learning more about data as a whole and the workings of Tableau. Took lessons on how to use at NGDATA from other analysts, somewhat knowledgable but more eager to do professionally.
-
- - Collaborated with field sales, marketing, professional services, and operations to discover and expand digital transformation opportunities at new prospects in manufacturing, financial services and housing.
-
+ 
  - Achieved highest number of prospects captured in-person at conferences and contributed the efforts of the sales team with strategic follow ups and meetings (Averaged 70+ per event).
 
  - Participated in cold-calling, email outreach and website interactions with prospects to gather interest for our solutions.
  
-## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+### Education
 
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-## Education
-
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (April 2021 - August 2021)
+Highly selective 12 week intensive coding bootcamp. During the course I covered/used the following:
+- Languages: Ruby, JavaScript, HTML, CSS, SQL (Minimal)
+- Frameworks: Ruby on Rails, Sinatra, various Javascript Libraries, React.js
+- Tools: Git, Github, Heroku
+- Testing Tools: RSPEC, Jasmine, Jest
+- Programming practices/fundamentals: SOLID Principles, Pair Programming, Agile Working, HTTP, Web Apps, SQL Databases
 
 #### University of Chichester (2012 to 2015)
-
-- History (2:2)
+- Graduated with a Bachelors in History (2:2)
 - Participated in both the univeristy football team and athletics team.
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
-
 ## Hobbies
+- Running/Staying active.
+- Avid reader.
+- Massive interest in food and cooking.
 
-Any cool stuff that makes you a super part of a software development team
+[1]: https://github.com/frank-mck/pin-my-hike
+[2]: https://github.com/Ashley-Slaney/acebook-smells-like-team-spirit
+[3]: https://github.com/frank-mck/MakerBnB
+[4]: https://chukaokoye93.medium.com/
