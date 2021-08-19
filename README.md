@@ -4,7 +4,6 @@ I am a dedicated, enthusiatic and career driven individual, who is always eager 
 After previously working in sales for start-up companies for the past four years and having a passion for technology, I undertook a career change to become a software developer by completing an intensive 12 weeks of [Makers Academy](https://github.com/makersacademy).
 
 Blog: https://chukaokoye93.medium.com/
-
 ### Projects
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
@@ -22,8 +21,7 @@ Blog: https://chukaokoye93.medium.com/
 ### Work Experience
 
 **Singular** (January 2019 to April 2021)  
-Sales Development Representative
-
+*Sales Development Representative*
 - I was responsible for driving new business opportunities and pipeline across the EMEA region by both prospecting to relevant organisations and running meetings for qualification.
 
 - Proficient in Salesforce, email and LinkedIn to generate leads and outreach. Created an interactive Excel table to assist in tracking my distrubution of meetings created with Account Managers.
@@ -31,8 +29,7 @@ Sales Development Representative
 - Won 'Top SDR Q3 2019' with creating over $750,000 in sales pipeline.
 
 **Eccella** (Feburary 2017 to July 2018)  
-Inside Sales Representative
-
+*Inside Sales Representative*
 - Was in integral part of the global sales practice whilst based in the UK.
 Maintained logs of works on Salesforce and Excel, making sure prospect data was up-to-date, keeping note of meetings with stakeholders and was assigned duty of follow up with warmer leads.
  
@@ -40,7 +37,6 @@ Maintained logs of works on Salesforce and Excel, making sure prospect data was 
 
  - Participated in cold-calling, email outreach and website interactions with prospects to gather interest for our solutions.
  
-
 ### Education
 
 #### Makers Academy (April 2021 - August 2021)
