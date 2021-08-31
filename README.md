@@ -56,7 +56,7 @@ Highly selective 12 week intensive coding bootcamp. During the course I covered/
 - Avid reader.
 - Massive interest in food and cooking.
 
-[1]: https://github.com/frank-mck/pin-my-hike
-[2]: https://github.com/Ashley-Slaney/acebook-smells-like-team-spirit
-[3]: https://github.com/frank-mck/MakerBnB
+[1]: https://github.com/coo990/pin-my-hike
+[2]: https://github.com/coo990/acebook-smells-like-team-spirit
+[3]: https://github.com/coo990/MakerBnB
 [4]: https://chukaokoye93.medium.com/
