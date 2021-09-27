@@ -43,11 +43,11 @@ Blog: https://chukaokoye93.medium.com/
 
 #### Makers Academy (April 2021 - August 2021)
 After my years working for technology companies, I decided to join the highly selective 12 week intensive coding bootcamp. 
-- During the course I was always eager to contribute to a project, unafraid to add my ideas to a project. My communication was vital when enquiring about what coding tasks where more important, and displayed my written skills by writing a [blog][4] that details my entire 12-week Makers Academy duration. 
+- During the course I was always eager to contribute to a project, unafraid to add my ideas to a project. My communication was vital when enquiring about what coding tasks where more important, and displayed my written skills by writing a [blog][4] that details my entire 12-week Makers Academy duration.
+- My attention to detail was important as I was really good at spotting key items when doing code reviews and pair programming, thus was integral to improving the debugging process whenever issues arose.
+-  I enjoyed working in both team environments whilst confident enough to work independently. Always getting positive feedback during pair programming sessions and team projects.
 
- - My attention to detail was important as I was really good at spotting key items when doing code reviews and pair programming, thus was integral to improving the debugging process whenever issues arose.
- -  I enjoyed working in both team environments whilst confident enough to work independently. Always getting positive feedback during pair programming sessions and team projects.
- - I was easily adaptable to taking on duties that are available, and very comfortable working with new people effectively like in team projects and making sure Agile processes was adhered to.
+- I was easily adaptable to taking on duties that are available, and very comfortable working with new people effectively like in team projects and making sure Agile processes was adhered to.
 - Programming languages learnt include: Ruby, JavaScript, HTML, CSS, SQL
 - Frameworks: Ruby on Rails, Sinatra, various Javascript Libraries, React.js for final project
 - Tools: Git, Github, Heroku
