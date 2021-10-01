@@ -1,5 +1,4 @@
 # Chuka Okoye-Ahaneku
-###### email: chukanorth@hotmail.co.uk phone: 07985703400 github: https://github.com/coo990 linkedin: https://www.linkedin.com/in/chuka-okoye-ahaneku-682ba7b4/
 
 As a recent bootcamp graduate from [Makers Academy](https://github.com/makersacademy), I am a dedicated, enthusiastic and career driven individual, who is always eager to learn and take on new challenges. 
 
