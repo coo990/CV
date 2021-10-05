@@ -1,7 +1,7 @@
 # Chuka Okoye-Ahaneku
 I have been working in sales for technology start-ups, and until recently, I thought that my proximity to engineering teams and my passion for technology was enough to be close to.
 
-Which I gained a lot of valuable experiences and skills, but I knew deep down from a young age that I actually wanted to be the one that solved real-world issues, and bring new ideas to fruition by using technology. Hence when the opportunity came to learn how to become a Software Engineer with [Makers Academy](https://github.com/makersacademy), I knew that I had to take my chance.
+To which I gained a lot of valuable experiences and skills, but I knew deep down from a young age that I actually wanted to be the one that solved real-world issues, and bring new ideas to fruition by using technology. Hence when the opportunity came to learn how to become a Software Engineer with [Makers Academy](https://github.com/makersacademy), I knew that I had to take my chance.
 
 To learn more about my passion for technology, please read my blog: https://chukaokoye93.medium.com/
 ### Projects
