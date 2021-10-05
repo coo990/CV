@@ -1,10 +1,9 @@
 # Chuka Okoye-Ahaneku
+I have been working in sales for technology start-ups, and until recently, I thought that my proximity to engineering teams and my passion for technology was enough to be close to.
 
-As a recent bootcamp graduate from [Makers Academy](https://github.com/makersacademy), I am a dedicated, enthusiastic and career driven individual, who is always eager to learn and take on new challenges. 
+Which I gained a lot of valuable experiences and skills, but I knew deep down from a young age that I actually wanted to be the one that solved real-world issues, and bring new ideas to fruition by using technology. Hence when the opportunity came to learn how to become a Software Engineer with [Makers Academy](https://github.com/makersacademy), I knew that I had to take my chance.
 
-I pride myself on my soft skills of attention to detail, teamwork and communication after previously working in sales for start-up companies for the past four years and having a passion for technology. I am excited in my journey to start my new career as a Software Developer.
-
-Blog: https://chukaokoye93.medium.com/
+To learn more about my passion for technology, please read my blog: https://chukaokoye93.medium.com/
 ### Projects
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
