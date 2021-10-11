@@ -15,7 +15,7 @@ To learn more about my passion for technology, please read my blog: https://chuk
 - **Enthusiasm** - I am always eager to contribute to a project, unafraid to add my ideas to a conversation, like enquiring about which coding tasks are more important. 
 - **Teamwork** - I enjoy working in both team environments whilst being confident enough to work independently. Always getting positive feedback during pair programming sessions and team projects.
 - **Written and Verbal Communication Skills** - I held multiple presentations on business development plans at my previous jobs and wrote a [blog][4] that details my entire 12-week Makers Academy duration.
-- **Attention to detail** - I am good at spotting key items when doing code reviews or pair programming, which has improved dramatically when debugging.
+- **Attention to detail** - I am good at spotting key items when doing code reviews or pair programming, which has dramatically improved when debugging.
 - **Flexibility** - Easily adaptable to taking on available duties, and very comfortable working with new people effectively.
 
 ### Work Experience
