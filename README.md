@@ -8,7 +8,7 @@ To learn more about my passion for technology, please read my blog: https://chuk
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | [Pin My Hike][1]          | A webapp that allows users to "pin" and save their favourite hikes in real-time, also has a function that shows their current location in case they are stuck on a route. Suited for outdoor users who need to highlight their travels in more detail and share. | MERN, Javascript, ESLint, CircleCI |
-| [Acebook][2] | A webapp that replicates the infamous social media platform, Facebook. Designed for those who want to share their day-to-day habits with their peers, and be able to submit their comments on posts. | Ruby on Rails, Capybara, Javascript, HTML, CSS |
+| [Tonight's Dinner][5] | A web app that allows me to input and store the dinners I cook in the evening. Helpful for tracking what I eat and what I can make. Targeted at those that trouble with what to make for dinner. | Ruby on Rails, Capybara, Javascript, HTML, CSS |
 | [MakersBnB][3] | A replication of the Airbnb platform, where users can find local holiday/rental spaces. Suited for holiday-makers and travellers if they want to stay at a local home-stay instead of hotels.  | Ruby, Capybara, HTML, CSS |
 
 ### Skills
@@ -60,11 +60,12 @@ After my years working for technology companies, I decided to join the highly se
 ## Hobbies
 - Running/Staying active.
 - Avid reader of books, news articles and graphic novels.
-- Massive interest in food and cooking, looking to create a project detailing my favourite cooked dinners (github repo pending).
+- Massive interest in food and cooking, created a project detailing my favourite cooked dinners (github attached in My Projects table).
 
 [1]: https://github.com/frank-mck/pin-my-hike
 [2]: https://github.com/Ashley-Slaney/acebook-smells-like-team-spirit
 [3]: https://github.com/frank-mck/MakerBnB
 [4]: https://chukaokoye93.medium.com/
+[5]: https://github.com/coo990/tonights-dinner
 
 
