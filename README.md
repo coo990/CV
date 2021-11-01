@@ -9,8 +9,8 @@ I go more in-depth with my passion for technology in my blog, so please check ou
 ### Projects
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [Pin My Hike][1]          | A webapp that allows users to "pin" and save their favourite hikes in real-time, also has a function that shows their current location in case they are stuck on a route. Suited for outdoor users who need to highlight their travels in more detail and share. | MERN, Javascript, ESLint, CircleCI |
-| [Tonight's Dinner][5] | A web app that allows me to input and store the dinners I cook in the evening. Helpful for tracking what I eat and what I can make. Targeted at those that trouble with what to make for dinner. | Ruby on Rails, Capybara, Javascript, HTML, CSS |
+| [Tonight's Dinner][5] | An individual project made after graduating from Makers. A web app that allows me to input and store the dinners I cook in the evening, helpful for tracking what I eat and what I can make. Targeted at those that trouble with what to make for dinner, with a feature that displays a random food input when clicked. | Ruby on Rails, Capybara, Bootstrap, HTML, CSS |
+| [Pin My Hike][1] | A webapp that allows users to "pin" and save their favourite hikes in real-time, also has a function that shows their current location in case they are stuck on a route. Suited for outdoor users who need to highlight their travels in more detail and share. | MERN, Javascript, ESLint, CircleCI |
 | [MakersBnB][3] | A replication of the Airbnb platform, where users can find local holiday/rental spaces. Suited for holiday-makers and travellers if they want to stay at a local home-stay instead of hotels.  | Ruby, Capybara, HTML, CSS |
 
 ### Skills
@@ -35,9 +35,9 @@ I go more in-depth with my passion for technology in my blog, so please check ou
 - Was an integral part of the global sales practice whilst based in the UK. 
 - Maintained logs of work on Salesforce and Excel, making sure prospect data was up-to-date with my attention to detail, keeping note of meetings with stakeholders and was assigned duty of follow up with warmer leads.
  
- - My enthusiasm when attending events allowed me to achieve the highest number of prospects captured in-person at conferences. Also contributed the efforts of the sales team with strategic follow ups and meetings, with effective written communication (Averaged 70+ per event).
+- My enthusiasm when attending events allowed me to achieve the highest number of prospects captured in-person at conferences. Also contributed the efforts of the sales team with strategic follow ups and meetings, with effective written communication (Averaged 70+ per event).
 
- - Participated in cold-calling, email outreach and website interactions with prospects to gather interest for our solutions.
+- Participated in cold-calling, email outreach and website interactions with prospects to gather interest for our solutions.
  
 ### Education
 
