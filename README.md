@@ -1,8 +1,11 @@
 # Chuka Okoye-Ahaneku
 
-I have a background in sales for technology start-up companies, and now I’m looking to enter the next stage in my career as a Software Developer after finishing the [Makers Academy](https://makers.tech/) highly selective 16-week coding course. I knew I wanted to be a developer from a young age due to my passion for technology and my desire to solve real-world issues.
+I am a recent bootcamp graduate from [Makers Academy](https://makers.tech/) based in London, and I am a dedicated, enthusiastic and career-driven individual, who is always eager to learn and take on new challenges.
 
-By also working closely with Engineering teams in my professional career, I saw how they were producing new features and products to the technology, it was great to see that first-hand in a commercial setting and drove my decision to make a career change.
+I pride myself on my soft skills of attention to detail, teamwork and communication
+after previously working in sales for start-up companies for the past four years, and now I’m looking to enter the next stage in my career as a Software Developer. I
+knew I wanted to be a developer from a young age due to my passion for technology and
+my want to solve real-world issues.
 
 I go more in-depth with my passion for technology in my blog, so please check out: https://chukaokoye93.medium.com/
 
