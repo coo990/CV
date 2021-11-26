@@ -1,11 +1,8 @@
 # Chuka Okoye-Ahaneku
 
-I am a recent bootcamp graduate from [Makers Academy](https://makers.tech/) based in London, and I am a dedicated, enthusiastic and career-driven individual, who is always eager to learn and take on new challenges.
+I am a Junior Fullstack Engineer based in London. Having a passion for technology and the desire to solve real-world problems inspired me to become a software developer from since an early age. I am dedicated, enthusiastic, career-driven, and always glad to learn new skills and take on new challenges.
 
-I pride myself on my soft skills of attention to detail, teamwork and communication
-after previously working in sales for start-up companies for the past four years, and now I’m looking to enter the next stage in my career as a Software Developer. I
-knew I wanted to be a developer from a young age due to my passion for technology and
-my want to solve real-world issues.
+It is my strength to pay attention to details, work well in teams, and communicate effectively. My previous work experience was in sales for start-up companies for the last four years, and now I am interested in applying those skills to my career as a Software Developer.
 
 I go more in-depth with my passion for technology in my blog, so please check out: https://chukaokoye93.medium.com/
 
@@ -17,6 +14,7 @@ I go more in-depth with my passion for technology in my blog, so please check ou
 | [MakersBnB][3] | A replication of the Airbnb platform, where users can find local holiday/rental spaces. Suited for holiday-makers and travellers if they want to stay at a local home-stay instead of hotels.  | Ruby, Capybara, HTML, CSS |
 
 ### Skills
+- **Constant learner** - Can transfer between languages (Ruby and Javascript) as I love to code. While still eager to learn new technologies like React.
 - **Enthusiasm** - I am always eager to contribute to a project, unafraid to add my ideas to a conversation, like enquiring about which coding tasks are more important. 
 - **Teamwork** - I enjoy working in both team environments whilst being confident enough to work independently. Always getting positive feedback during pair programming sessions and team projects.
 - **Written and Verbal Communication Skills** - I held multiple presentations on business development plans at my previous jobs and wrote a [blog][4] that details my entire 12-week Makers Academy duration.
