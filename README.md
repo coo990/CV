@@ -1,8 +1,8 @@
 # Chuka Okoye-Ahaneku
 
-I am a Junior Fullstack Engineer based in London. Having a passion for technology and the desire to solve real-world problems inspired me to become a software developer from since an early age. I am dedicated, enthusiastic, career-driven, and always glad to learn new skills and take on new challenges.
+As a Junior Full-Stack Developer based in London, I have experience with both web and database technologies. Due to my passion for technology from an early age and a desire to solve real-world problems, I became a software developer after working in sales for four years for start-ups. As well as my dedication, enthusiasm, and career-driven nature, I enjoy learning new skills and taking on new challenges.
 
-It is my strength to pay attention to details, work well in teams, and communicate effectively. My previous work experience was in sales for start-up companies for the last four years, and now I am interested in applying those skills to my career as a Software Developer.
+It is my strength to pay attention to details, work well in teams, and communicate effectively. As I mentioned previously, I have been involved in sales for start-up companies for the last four years, and I am now looking forward to applying those skills towards my career as a Software Developer.
 
 I go more in-depth with my passion for technology in my blog, so please check out: https://chukaokoye93.medium.com/
 
