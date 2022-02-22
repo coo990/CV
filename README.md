@@ -2,7 +2,7 @@
 
 I am a Junior Full-Stack Developer based in London, with experience in both web and database technologies. Due to my passion for technology from an early age and a desire to solve real-world problems, I became a software developer after working in sales for four years for start-ups. As well as my dedication, enthusiasm, and career-driven nature, I enjoy learning new skills and taking on new challenges.
 
-After finishing the Makers course, I have been consistent in my continuous learning of programming languages and building my own individual projects because I want to improve my front-end and back-end skills. Such as a web app I created titled 'Tonight's Dinner' in Ruby on Rails (under Projects), which stores and displays the meals a user makes so that they can track what they eat, due to my passion for food and cooking. I am now looking forward to applying these skills towards my career as a Software Developer.
+After finishing the Makers Bootcamp course, I have been consistent in my continuous learning of programming languages and building my own individual projects because I want to improve my front-end and back-end skills. Such as a web app I created titled 'Tonight's Dinner' in Ruby on Rails (under Projects), which stores and displays the meals a user makes so that they can track what they eat, due to my passion for food and cooking. I am now looking forward to applying these skills towards my career as a Software Developer.
 
 ### Projects
 | Name                         | Description       | Tech/tools        |
