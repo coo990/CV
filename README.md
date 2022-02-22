@@ -12,7 +12,7 @@ After finishing the Makers Bootcamp course, I have been consistent in my continu
 | [MakersBnB][3] | A replication of the Airbnb platform, where users can find local holiday/rental spaces. Suited for holiday-makers and travellers if they want to stay at a local home-stay instead of hotels.  | Ruby, Capybara, HTML, CSS |
 
 ### Skills
-- **Constant learner** - Can transfer between languages (Ruby and Javascript) as I love to code. While still eager to learn new technologies like React.
+- **Constant learner** - Can transfer between languages (Ruby and Javascript) as I love to code. While still eager to learn new technologies like React as demonstrated from my projects.
 - **Enthusiasm** - I am always eager to contribute to a project, unafraid to add my ideas to a conversation, like enquiring about which coding tasks are more important. 
 - **Teamwork** - I enjoy working in both team environments whilst being confident enough to work independently. Always getting positive feedback during pair programming sessions and team projects.
 - **Written and Verbal Communication Skills** - I held multiple presentations on business development plans at my previous jobs and wrote a [blog][4] that details my entire 12-week Makers Academy duration.
