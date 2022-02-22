@@ -1,4 +1,4 @@
-# Chuka Okoye-Ahaneku
+<h1 align="center">Chuka Okoye-Ahaneku</h1>
 
 I am a Junior Full-Stack Developer based in London, with experience in both web and database technologies. Due to my passion for technology from an early age and a desire to solve real-world problems, I decided to become a software developer after working in sales for four years for start-ups through Makers Academy. As well as my dedication, enthusiasm, and career-driven nature, I enjoy learning new skills and taking on new challenges.
 
